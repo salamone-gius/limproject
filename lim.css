@@ -1,0 +1,64 @@
+* {
+  box-sizing: border-box;
+  }
+
+body {
+  background-image: url(backgroundlim.jpg);
+  background-size: cover;
+}
+
+main {
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 15px;
+  margin: 20px 250px 20px 250px;
+  padding: 70px 60px 70px 60px;
+}
+
+header {
+  text-align: center;
+  color: lime;
+  font-family: verdana;
+}
+
+img {
+  width: 25%;
+  height: 8%;
+}
+
+nav {
+  text-align: center;
+  background-color: lime;
+  font-family: verdana;
+  padding: 7px 4px 7px 4px;
+}
+
+.unitàdisponibili {
+  color: white;
+  font-family: verdana;
+  margin-top: 4%;
+  margin-bottom: 4%;
+}
+
+.caricaorange {
+  width: 35%;
+  height: 20px;
+  border-radius: 5px;
+  background-color: #ffcc00;
+  margin-top: 5px;
+}
+
+.caricagreen {
+  width: 60%;
+  height: 20px;
+  border-radius: 5px;
+  background-color: #33ff33;
+  margin-top: 5px;
+}
+
+.caricared {
+  width: 15%;
+  height: 20px;
+  border-radius: 5px;
+  background-color: #cc3333;
+  margin-top: 5px;
+}
